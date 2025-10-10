@@ -1,0 +1,29 @@
+.test-div{
+    background: rgb(64, 126, 64);
+    padding: 20px;
+    margin: 20px;
+}
+
+.test-div h2 {
+    color:rgb(255, 255, 255);
+}
+
+.test-div:hover {
+    background: rgb(146, 255, 181);
+}
+.special {
+    background:pink;
+}
+button.special  {
+    background:blue;
+}
+
+.myflex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#split {
+    display: flex;
+    flex-direction: column;
+}
