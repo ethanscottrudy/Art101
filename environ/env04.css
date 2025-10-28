@@ -1,0 +1,24 @@
+BODY { color: #d6e2db; padding: 50px}
+H1, H2, H3 {color:#deebdc; font-family: sans-serif; display: inline;}
+body {background-image: url(TheTable.png);
+ background-repeat: no-repeat;
+background-size: 2250px;
+}
+#xeno {
+  width:200px;
+  position: relative;
+  left: 1000px;
+  top: 150px;
+}   
+#ThomasKane {
+    width:200px;
+    position: relative;
+    left: 750px;
+    top: 200px;
+  }
+#facehugger {
+    width:200px;
+    position: relative;
+    left: 750px;
+    top: 200px;
+  }
